@@ -1,0 +1,27 @@
+body {
+  background-color:#ffddcc;
+
+}
+h1{
+  color:white;
+}
+h3{
+  color:#470938;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 5%;
+}
+.dp{
+  border-radius:100%;
+}
+a:hover{
+  color: darkgreen;
+}
+.first{
+  background-color: #d9eeec;
+  padding-left: 40%;
+}
